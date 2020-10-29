@@ -1,0 +1,97 @@
+{
+ "Bad vs": [
+  "Echo","Torbjorn","Sigma","Baptiste"],
+ "Good vs": [
+  "Widowmaker","Junkrat","Reinhardt","Ashe","Reaper","Ana","Bastion","Hanzo","Genji","Moira","Zenyatta"],
+ "Team Synergies": [
+  "Winston","Wrecking Ball","Zenyatta","Genji","Tracer","Ana"],
+ "Awful vs": [
+  "Sombra","Zarya","Orisa","Symmetra","Mei","Brigitte"],
+ "Character Name": "DVa",
+ "Role": "Tank",
+ "ID": "1"
+}
+
+{
+ "Bad vs": [
+  "Sigma","Zarya","Genji","Lucio","Hanzo","Junkrat"],
+ "Good vs": [
+  "Soldier 76","Ashe","McCree","Winston","Wrecking Ball","DVa","Ana","Mei","Doomfist","Brigitte"],
+ "Team Synergies": [
+  "Roadhog","Bastion","Sigma","Ashe","Junkrat","Ana","Mercy","Baptiste","Torbjorn"],
+ "Awful vs": [
+  "Roadhog","Reinhardt","Echo","Pharah","Bastion"],
+ "Character Name": "Orisa",
+ "Role": "Tank",
+ "ID": "2"
+}
+
+{
+ "Bad vs": [
+  "Symmetra","Mercy","Zenyatta","Roadhog","Bastion","Junkrat"],
+ "Good vs": [
+  "Widowmaker","Soldier 76","Zarya","Baptiste","Ana","McCree","Reinhardt","Orisa"],
+ "Team Synergies": [
+  "Zarya","Lucio","Moira","Brigitte","Reaper","McCree","Ana","Hanzo"],
+ "Awful vs": [
+  "Sombra","Mei","Echo","Pharah","Wrecking Ball","Doomfist"],
+ "Character Name": "Reinhardt",
+ "Role": "Tank",
+ "ID": "3"
+}
+
+{
+ "Bad vs": [
+  "Symmetra","Pharah","Echo","Torbjorn","Mercy","Sigma","Reaper"],
+ "Good vs": [
+  "Soldier 76","Reinhardt","Ashe","Wrecking Ball","Winston","Baptiste"],
+ "Team Synergies": [
+  "Zenyatta","Orisa","Lucio","Symmetra","Ana","Moira"],
+ "Awful vs": [
+  "Sombra","Roadhog","Orisa","McCree","Mei"],
+ "Character Name": "Roadhog",
+ "Role": "Tank",
+ "ID": "4"
+}
+
+{
+ "Bad vs": [
+  "Symmetra","Pharah","Echo","Torbjorn","Mercy","Sigma","Reaper"],
+ "Good vs": [
+  "Widowmaker","Soldier 76","Reinhardt","Ashe","Zarya","Baptiste","Ana"],
+ "Team Synergies": [
+  "Winston","DVa","Zenyatta","Genji","Tracer"],
+ "Awful vs": [
+  "Sombra","Roadhog","Orisa","McCree","Mei"],
+ "Character Name": "Sigma",
+ "Role": "Tank",
+ "ID": "5"
+}
+
+{
+ "Bad vs": [
+  "McCree","Mercy","Hanzo","Wrecking Ball","Junkrat","Mei","Echo","Lucio","Moira"],
+ "Good vs": [
+  "Widowmaker","Genji","Reinhardt","Sombra","Zarya","Tracer","Ana","Symmetra","Sigma","Zenyatta","Baptiste"],
+ "Team Synergies": [
+  "Winston","DVa","Zenyatta","Genji","Tracer"],
+ "Awful vs": [
+  "Roadhog","Orisa","Torbjorn","Reaper","Bastion","Doomfist","Brigitte"],
+ "Character Name": "Winston",
+ "Role": "Tank",
+ "ID": "6"
+}
+
+{
+ "Bad vs": [
+  "Symmetra","Pharah","Echo","Torbjorn","Mercy","Sigma","Reaper","Bastion","Brigitte"],
+ "Good vs": [
+  "Widowmaker","Soldier 76","Reinhardt","Ashe","Zarya","Baptiste","Ana"],
+ "Team Synergies": [
+  "Winston","DVa","Zenyatta","Genji","Tracer"],
+ "Awful vs": [
+  "Sombra","Roadhog","Orisa","McCree","Mei"],
+ "Character Name": "Wrecking Ball",
+ "Role": "Tank",
+ "ID": "7"
+}
